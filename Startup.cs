@@ -9,6 +9,7 @@ namespace SimpleWebApp
     {
         public void ConfigureServices(IServiceCollection services)
         {
+            // Making Changes to ConfigureServices
             services.AddControllersWithViews();
         }
 
