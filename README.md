@@ -6,3 +6,5 @@ Adding third line
 This line is from example branch
 
 From update-readme
+
+This is from update-readme from local branch
