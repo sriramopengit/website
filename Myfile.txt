@@ -1,3 +1,3 @@
 My file added from here
 
-In the branch remove-ipsum-file
+Making changes in local repo before rebase
