@@ -3,3 +3,5 @@ Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, loo
 and going through the cites of the word in classical literature, discovered the undoubtable source.
 
 Another line also added
+
+PR #14
